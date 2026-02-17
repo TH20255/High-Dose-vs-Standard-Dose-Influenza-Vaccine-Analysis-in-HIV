@@ -1,4 +1,5 @@
 # High-Dose vs Standard-Dose Influenza Vaccine Analysis in HIV
+[![DOI](https://zenodo.org/badge/1159610624.svg)](https://doi.org/10.5281/zenodo.18665755)
 
 Statistical analysis code for the article: **"Limited effectiveness of high-dose flu vaccine in augmenting influenza A responses in older people with HIV"**
 
@@ -116,4 +117,5 @@ Correspondence: spallikkuth@med.miami.edu; spahwa@med.miami.edu
 Department of Microbiology and Immunology
 University of Miami Miller School of Medicine
 Miami, Florida, United States of America
+
 
