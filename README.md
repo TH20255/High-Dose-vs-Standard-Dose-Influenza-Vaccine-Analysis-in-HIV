@@ -9,6 +9,8 @@ Kupritz J*, Davis S*, Singh P, Liu T, Diaz-Pachon D, Rodriguez A, Pahwa R, Palli
 
 **Clinical Trial**: [NCT04487041](https://clinicaltrials.gov/study/NCT04487041)
 
+If you use this software, please cite it as: TH20255. (2026). TH20255/High-Dose-vs-Standard-Dose-Influenza-Vaccine-Analysis-in-HIV: Version 1.0.0 - Initial Release. (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18665756
+
 ## Study Overview
 
 This study examines the immunogenicity of high-dose (HD) vs standard-dose (SD) influenza vaccines in people with HIV (PWH) compared to people without HIV (PWoH), across different age groups.
@@ -117,5 +119,6 @@ Correspondence: spallikkuth@med.miami.edu; spahwa@med.miami.edu
 Department of Microbiology and Immunology
 University of Miami Miller School of Medicine
 Miami, Florida, United States of America
+
 
 
